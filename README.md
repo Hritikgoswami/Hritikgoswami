@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritik Goswami</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm dedicated to crafting elegant and efficient solutions that make the digital world a better place. With a creative mindset and a keen eye for detail, I transform complex challenges into intuitive user experiences. My code is not just functional; it's a work of art.</h3>
 <img align="right" alt="Coding" width="400" src="https://pricode.io/wp-content/uploads/2019/04/gif-coder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikgoswami&label=Profile%20views&color=0e75b6&style=flat" alt="hritikgoswami" /> </p>
 
